@@ -1,39 +1,62 @@
-Hi, I’m Rohith V H 👋
+# 🌟 Hi, I’m **Rohith V H** 👋  
 
-👨‍💻 About Me
-	•	Electronics and Communication Engineering (ECE) student
-	•	1st year at PES University
-	•	Passionate about learning programming, electronics, and building projects
+<p align="left">
+  <a href="mailto:rohithvh2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohithvh2007%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
 
-⸻
+  <a href="tel:+919986283785">
+    <img src="https://img.shields.io/badge/Call-Me-green?style=for-the-badge&logo=phone" />
+  </a>
 
-📫 Contact Information
-	•	Email: rohithvh2007@gmail.com￼
-	•	Phone: 9986283785
-	•	LinkedIn: LinkedIn Profile￼
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-⸻
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-🚀 Skills (Currently Learning)
+---
 
-Programming
-	•	Python (Basics, problem solving)
+## 👨‍💻 About Me  
+Electronics and Communication Engineering (ECE) student  
+1st year at **PES University**  
+Passionate about learning programming, electronics, and building projects.
 
-Electronics & ECE Core
-	•	Digital Electronics (Basics)
-	•	Analog Circuits (Basics)
-	•	PCB design (learning)
-	•	Microcontrollers (Arduino basics)
+---
 
-Tools & Software
-	•	VS Code
-	•	MATLAB (beginner)
+## 📫 Contact Information  
+- **Email:** rohithvh2007@gmail.com  
+- **Phone:** 9986283785  
+- **LinkedIn:** (button above)  
+- **GitHub:** (button above)
 
-⸻
+---
 
-📘 What I Plan to Learn Soon
-	•	Embedded Systems
-	•	IoT projects
-	•	Advanced Git workflows
+## 🚀 Skills (Currently Learning)
 
-Feel free to connect with me or check out my projects as I continue learning and growing!
+# Programming
+- Python (Basics, problem solving)
+
+# Electronics & ECE Core
+- Digital Electronics (Basics)  
+- Analog Circuits (Basics)  
+- PCB design (learning)  
+- Microcontrollers (Arduino basics)
+
+# Tools & Software
+- VS Code  
+- MATLAB (beginner)
+
+---
+
+# 📘 What I Plan to Learn Soon  
+- Embedded Systems  
+- IoT projects  
+- Advanced Git workflows
+
+---
+
+Feel free to connect with me or check out my projects as I continue learning and growing! 🚀
