@@ -1,18 +1,19 @@
 # 🌟 Hi, I’m **Rohith V H** 👋  
 
-<p align="left">
+<!-- BEAUTIFUL BUTTON ROW -->
+<p align="center">
   <a href="mailto:rohithvh2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rohithvh2007%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="tel:+919986283785">
-    <img src="https://img.shields.io/badge/Call-Me-green?style=for-the-badge&logo=phone" />
+    <img src="https://img.shields.io/badge/Call-Me-green?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
@@ -37,22 +38,22 @@ Passionate about learning programming, electronics, and building projects.
 
 ## 🚀 Skills (Currently Learning)
 
-# Programming
+### Programming
 - Python (Basics, problem solving)
 
-# Electronics & ECE Core
+### Electronics & ECE Core
 - Digital Electronics (Basics)  
 - Analog Circuits (Basics)  
 - PCB design (learning)  
 - Microcontrollers (Arduino basics)
 
-# Tools & Software
+### Tools & Software
 - VS Code  
 - MATLAB (beginner)
 
 ---
 
-# 📘 What I Plan to Learn Soon  
+## 📘 What I Plan to Learn Soon  
 - Embedded Systems  
 - IoT projects  
 - Advanced Git workflows
